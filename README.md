@@ -29,6 +29,7 @@ Tecnologías: HTML5 · CSS3 · JavaScript (Vanilla)
 │
 ├── assets/
 │   ├── amigo-secreto.png
+
 │   └── play_circle_outline.png
 ├── index.html        # Estructura principal y accesibilidad
 ├── style.css         # Estilos: variables CSS, layout y componentes
