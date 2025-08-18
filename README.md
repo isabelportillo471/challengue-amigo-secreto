@@ -1,6 +1,6 @@
 # challengue-amigo-secreto
 # Oracle ONE & Alura Challenge Completado
- <img width="450" height="277" alt="amigo-secreto" src=" https://private-user-images.githubusercontent.com/197175815/475336328-11c18b91-1857-4754-bc76-c7bceef42c1e.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTU1MzA2MzksIm5iZiI6MTc1NTUzMDMzOSwicGF0aCI6Ii8xOTcxNzU4MTUvNDc1MzM2MzI4LTExYzE4YjkxLTE4NTctNDc1NC1iYzc2LWM3YmNlZWY0MmMxZS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwODE4JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDgxOFQxNTE4NTlaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT02M2ZjMGQ2YjFjNWU0MGUzOTUyMjQyY2EzZjM1MjJkMmZkYjlkYTljNDI1YjAyZmFiY2QyMjRjYjllODEyYmM1JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.1wWd4MIMTOqhg7YmwugZV7-iIc5tdOiM_HBYvIERieQ" />
+ <img width="450" height="277" alt="amigo-secreto" src="https://github.com/isabelportillo471/challengue-amigo-secreto/blob/main/img/ff043987-239b-4661-bdb1-7f4ca6092c48.png" />
 
 
 📌 Descripción
