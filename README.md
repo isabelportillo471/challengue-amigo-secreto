@@ -1,5 +1,7 @@
 # challengue-amigo-secreto
 # Oracle ONE & Alura Challenge Completado
+ <img width="450" height="277" alt="amigo-secreto" src="https://github.com/user-attachments/assets/9d4e5dc4-f199-464c-bc7d-442369ad973d" />
+
 
 📌 Descripción
 Amigo Secreto permite ingresar nombres en una lista y realizar un sorteo aleatorio que muestra un único resultado por ronda. El enfoque del proyecto es practicar lógica de programación, manipulación del DOM, validaciones y control de eventos usando HTML, CSS y JavaScript puro (vanilla).
