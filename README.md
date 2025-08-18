@@ -1,6 +1,6 @@
 # challengue-amigo-secreto
 # Oracle ONE & Alura Challenge Completado
- <img width="450" height="277" alt="amigo-secreto" src="https://github.com/user-attachments/assets/9d4e5dc4-f199-464c-bc7d-442369ad973d" />
+ <img width="450" height="277" alt="amigo-secreto" src="ff043987-239b-4661-bdb1-7f4ca6092c48.png" />
 
 
 📌 Descripción
