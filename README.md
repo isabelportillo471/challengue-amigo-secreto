@@ -25,7 +25,7 @@ Tip: puedes limpiar el campo y seguir agregando más nombres antes de volver a s
 🛠️ Stack y arquitectura de archivos
 Tecnologías: HTML5 · CSS3 · JavaScript (Vanilla)
 
-amigo_secreto/
+# amigo_secreto/
 │
 ├── assets/
 │   ├── amigo-secreto.png
@@ -33,6 +33,7 @@ amigo_secreto/
 ├── index.html        # Estructura principal y accesibilidad
 ├── style.css         # Estilos: variables CSS, layout y componentes
 ├── app.js            # Lógica: agregar, listar y sortear amigos
+└── README.md
 └── README.md
 🚀 Instalación y ejecución local
 Clona el repositorio:
