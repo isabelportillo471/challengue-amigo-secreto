@@ -37,7 +37,7 @@ amigo_secreto/
 🚀 Instalación y ejecución local
 Clona el repositorio:
 
-git clone https://github.com/laocorp/challenge-amigo-secreto.git
+git clone https://github.com/isabelportillo471/challengue-amigo-secreto/tree/main
 Navegar al directorio del proyecto:
 
 cd challenge-amigo-secreto
